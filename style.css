@@ -101,8 +101,13 @@ button {
     font-family: 'Inter', sans-serif;
 }
 
+.texto_titulo{
+    font-size: 48px;
+    font-weight: 400;
+}
+
 .texto__paragrafo {
-    font-size: 32px;
+    font-size: 22px;
     font-weight: 400;
 }
 
